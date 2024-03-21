@@ -18,7 +18,6 @@
 <h2>Exercise URL:</h2>
 <ul>
   <li>GitHub: https://github.com/mequsaibaker/HTMLBootcamp_HTMLBasicsExercise</li>
-  <li>CodePen: https://codepen.io/mequsaibaker/details/WNWpYeL</li>
 </ul>
 
 <h2>Acknowledgment:</h2>
