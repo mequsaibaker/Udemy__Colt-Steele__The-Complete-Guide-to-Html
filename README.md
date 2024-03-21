@@ -16,10 +16,5 @@
     <li>HTML</li>
 </ul>
 
-<h2>Exercise URL:</h2>
-<ul>
-    <li>GitHub: https://github.com/mequsaibaker/HTMLBootcamp_LinksImagesExercise</li>
-</ul>
-
 <h2>Acknowledgment:</h2>
 <p>This exercise was developed as part of the curriculum of "The Complete Guide to HTML Certificate" provided by Colt Steele in Udemy.</p>
