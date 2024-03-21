@@ -20,10 +20,6 @@
     <li>HTML</li>
 </ul>
 
-<h2>Exercise URL:</h2>
-<ul>
-    <li>GitHub: https://github.com/mequsaibaker/HTMLBootcamp_TextElementsExercise</li>
-</ul>
 
 <h2>Acknowledgment:</h2>
 <p>
