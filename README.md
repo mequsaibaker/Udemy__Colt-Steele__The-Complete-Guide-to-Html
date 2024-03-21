@@ -13,7 +13,6 @@
 
 <h2>Learning Journey:</h2>
 <p>Throughout the course, I explored various HTML elements, including:</p>
-<code>
   <p>Paragraphs</p>
   <p>Headings</p>
   <p>Semantic elements (nav, header, footer, etc.)</p>
@@ -27,7 +26,6 @@
   <p>Selects and options</p>
   <p>Audio</p>
   <p>Video</p>
-</code>
 
 <h2>Commitment to Excellence:</h2>
 <p>By diligently completing exercises and projects, I aimed to demonstrate proficiency in utilizing HTML elements effectively. The repository reflects practical application and understanding of HTML concepts.</p>
