@@ -12,9 +12,5 @@
   <LI><code>HTML</code></LI>
   <LI><code>CSS</code></LI>
 </UL>
-<H2>Exercise URL:</H2>
-<UL>
-  <LI>GitHub: https://github.com/mequsaibaker/HTMLBootcamp_Tables-Exercise</LI>
-</UL>
 <H2>Acknowledgment:</H2>
 <P>This exercise was developed as part of the curriculum of "The Complete Guide to <code>HTML</code> Certificate" provided by Colt Steele on Udemy.</P>
