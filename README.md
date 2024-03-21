@@ -13,19 +13,22 @@
 
 <h2>Learning Journey:</h2>
 <p>Throughout the course, I explored various HTML elements, including:</p>
-  <p>Paragraphs</p>
-  <p>Headings</p>
-  <p>Semantic elements (nav, header, footer, etc.)</p>
-  <p>Anchor elements</p>
-  <p>Images</p>
-  <p>Table elements</p>
-  <p>Forms</p>
-  <p>Buttons</p>
-  <p>Labels</p>
-  <p>Text areas</p>
-  <p>Selects and options</p>
-  <p>Audio</p>
-  <p>Video</p>
+  <ul>
+  <li><code>Paragraphs</code></li>
+  <li><code>Headings</code></li>
+  <li><code>Semantic elements (nav, header, footer, etc.)</code></li>
+  <li><code>Anchor elements</code></li>
+  <li><code>Images</code></li>
+  <li><code>Table elements</code></li>
+  <li><code>Forms</code></li>
+  <li><code>Buttons</code></li>
+  <li><code>Labels</code></li>
+  <li><code>Text areas</code></li>
+  <li><code>Selects and options</code></li>
+  <li><code>Audio</code></li>
+  <li><code>Video</code></li>
+</ul>
+
 
 <h2>Commitment to Excellence:</h2>
 <p>By diligently completing exercises and projects, I aimed to demonstrate proficiency in utilizing HTML elements effectively. The repository reflects practical application and understanding of HTML concepts.</p>
