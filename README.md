@@ -1,4 +1,4 @@
-<h1>GitHub Repository: Solutions for "The Complete Guide to HTML Certificate"</h1>
+<h1>My Repo for "The Complete Guide to HTML Certificate by Colt Steele on Udemy"</h1>
 <p>Welcome to my GitHub repository dedicated to hosting solutions for <code>"The Complete Guide to HTML Certificate"</code> provided by Colt Steele on Udemy. This repository contains my solutions for exercises presented throughout the course.</p>
 
 <h2>Course Overview:</h2>
